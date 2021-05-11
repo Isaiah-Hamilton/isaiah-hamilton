@@ -12,7 +12,7 @@
 <br />
 <br />
 
-Hi, I'm Isaiah Hamilton, a self-taught frontend web developer.
+Hi, I'm Isaiah, a self-taught front-end developer.
 
 - 🔭 I’m currently working on [Dogehouse](https://github.com/benawad/dogehouse)
 - 🌱 I’m currently learning Typescript and React
