@@ -11,10 +11,10 @@
 
 Hi, I'm Isaiah, a self-taught front-end developer.
 
-- 🔭 I’m currently working on [Weather Control](https://github.com/Isaiah-Hamilton/weather-control)
+- 🔭 I’m currently working on [Weather Control](https://github.com/Weather-Control)
 - 🌱 I’m currently learning Typescript and React
 - 👯 I’m looking to collaborate on [oasis](https://github.com/oasis-sh)
-- 🤔 I’m looking for help with [Weather Control](https://github.com/Isaiah-Hamilton/weather-control)
+- 🤔 I’m looking for help with [Weather Control](https://github.com/Weather-Control)
 - 💬 Ask me about anything [here](https://github.com/Isaiah-Hamilton/Isaiah-Hamilton/issues)
 
 **Languages and Tools:**  
