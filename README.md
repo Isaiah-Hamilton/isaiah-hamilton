@@ -5,18 +5,15 @@
 <a href="https://twitter.com/Isaiah7hamilton">
   <img align="left" alt="Isaiah Hamilton | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<a href="https://dogehouse.tv/u/Flux">
-  <img align="left" alt="Isaiah Hamilton | dogehouse" width="100px" src="https://raw.githubusercontent.com/benawad/dogehouse/staging/.redesign-assets/dogehouse_logo.svg" />
-</a>
 
 <br />
 <br />
 
 Hi, I'm Isaiah, a self-taught front-end developer.
 
-- 🔭 I’m currently working on [Dogehouse](https://github.com/benawad/dogehouse)
+- 🔭 I’m currently working on [Weather Control](https://github.com/Isaiah-Hamilton/weather-control)
 - 🌱 I’m currently learning Typescript and React
-- 👯 I’m looking to collaborate on [Dogehouse](https://github.com/benawad/dogehouse)
+- 👯 I’m looking to collaborate on [oasis](https://github.com/oasis-sh)
 - 🤔 I’m looking for help with [Weather Control](https://github.com/Isaiah-Hamilton/weather-control)
 - 💬 Ask me about anything [here](https://github.com/Isaiah-Hamilton/Isaiah-Hamilton/issues)
 
