@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=Isaiah-Hamilton"/>
 
-### Hi there, I'm [Isaiah](https://isaiah-hamilton.github.io/) 👋
+### Hi there, I'm [Isaiah](https://isaiah-hamilton.vercel.app) 👋
 
 <a href="https://twitter.com/Isaiah7hamilton">
   <img align="left" alt="Isaiah Hamilton | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
