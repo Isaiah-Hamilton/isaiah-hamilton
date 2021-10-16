@@ -11,9 +11,9 @@
 
 Hi, I'm Isaiah, a self-taught full stack developer.
 
-- 🔭 I’m currently working on [Roommate](https://github.com/Roommate)
+- 🔭 I’m currently working on [Roommate](https://github.com/Isaiah-Hamilton/Roommate)
 - 🌱 I’m currently learning Typescript and React / React Native
-- 🤔 I’m looking for help with [Roommate](https://github.com/Roommate)
+- 🤔 I’m looking for help with [Roommate](https://github.com/Isaiah-Hamilton/Roommate)
 - 💬 Ask me about anything [here](https://github.com/Isaiah-Hamilton/Isaiah-Hamilton/issues)
 
 **Languages and Tools:**  
