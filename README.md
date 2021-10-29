@@ -2,9 +2,8 @@
 <br />
 Hi, I'm Isaiah, a self-taught full stack developer.
 
-- 🔭 I’m currently looking to work on something
+- 🔭 I’m currently working on [supabase](https://github.com/supabase)
 - 🌱 I’m currently learning Typescript and React / React Native
-- 🤔 I’m looking for help with N/A
 - 💬 Ask me about anything [here](https://github.com/Isaiah-Hamilton/Isaiah-Hamilton/issues)
 
 **Languages and Tools:**  
