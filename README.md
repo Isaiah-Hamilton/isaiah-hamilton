@@ -1,20 +1,31 @@
-### Hi there, I'm [Isaiah](https://isaiah-hamilton.com) 👋
+### Hey, I'm [Isaiah](https://isaiah-hamilton.com) 👋🏾
+
 <br />
-Hi, I'm Isaiah, a self-taught full stack developer.
+
+I'm a self taught full stack developer base in Atlanta, Georgia. I'm still in high school but I have strong passion a for coding and building things that impact people's day to day lives and to make them better. I am interested in Typescript, Next.js, Deno, Supabase, and building consumer apps + developer tools. In my free time, you can see skating, gaming, exploring, and talking to new people.
+
+<br />
 
 - 🔭 I’m currently working on [supabase](https://github.com/supabase)
-- 🌱 I’m currently learning Typescript and React / React Native
+- 🌱 I’m currently learning Typescript and Next.js
 - 💬 Ask me about anything [here](https://github.com/Isaiah-Hamilton/Isaiah-Hamilton/issues)
+
+<br />
 
 **Languages and Tools:**  
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<div class="row">
+  <img height="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
+  <img height="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
+  <img height="40" src="https://user-images.githubusercontent.com/70828596/139622922-6109af2f-ab93-4fe4-860c-994d50f65620.png">
+  <img height="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
+  <img height="40" src="https://cdn.worldvectorlogo.com/logos/graphql.svg">
+  <img height="38" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg">
+  <img height="40" src="https://cdn.worldvectorlogo.com/logos/python-5.svg">
+  <img height="40" src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4">
+</div>
 
-![Isaiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaiah-Hamilton&theme=tokyonight&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaiah-Hamilton&layout=compact&theme=tokyonight)
+<br />
+
+![Isaiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaiah-Hamilton&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaiah-Hamilton&layout=compact&theme=github_dark&hide_border=true)
