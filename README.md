@@ -2,7 +2,7 @@
 
 <br />
 
-I'm a full stack developer base in Atlanta, Georgia. I'm still in high school but I have strong passion a for coding and building things that impact people's day to day lives and to make them better. I am interested in Typescript, Next.js, Deno, Supabase, and building consumer apps + developer tools. In my free time, you can see skating, gaming, exploring, and talking to new people.
+I'm a full stack developer base in Atlanta, Georgia. I have strong passion a for coding and building things that impact people's day to day lives and to make them better. I am interested in Typescript, Next.js, Deno, Supabase, and building consumer apps + developer tools. In my free time, you can see skating, gaming, exploring, and talking to new people.
 
 <br />
 
