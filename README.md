@@ -7,7 +7,9 @@ I'm a full stack developer base in Atlanta, Georgia. I have strong passion a for
 <br>
 
 - 🔭 I’m currently working on [supabase](https://github.com/supabase)
+
 - 🌱 I’m currently learning Typescript and Nextjs
+
 - 💬 Ask me about anything [here](https://github.com/Isaiah-Hamilton/Isaiah-Hamilton/issues)
 
 <br>
