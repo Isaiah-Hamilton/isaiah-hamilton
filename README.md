@@ -12,6 +12,8 @@ I'm a full stack developer based in Atlanta, Georgia. I have a strong passion fo
 
 - 💬 Ask me about anything [here](https://github.com/Isaiah-Hamilton/Isaiah-Hamilton/issues)
 
+- 📫 How to reach me: Discord(Flux#8742) [Twitter](https://twitter.com/isaiah7hamilton)
+
 <br>
 
 ## 🛠 Tech Stack
