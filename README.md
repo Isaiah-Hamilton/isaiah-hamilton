@@ -2,13 +2,13 @@
 
 <br>
 
-I'm a full stack developer based in Atlanta, Georgia. I have a strong passion for coding and building things that impact people's day to day lives and make them better. I am interested in Typescript, Next.js, Deno, Supabase, and building consumer apps + developer tools. In my free time, you can see skating, gaming, exploring, and talking to new people.
+I'm a full stack developer based in Atlanta, Georgia. I have a strong passion for coding and building things that impact people's day to day lives and make them better. I am interested in Typescript, Next.js, Golang, Supabase, and building consumer apps + developer tools. In my free time, you can see skating, gaming, exploring, and talking to new people.
 
 <br>
 
 - 🔭 I’m currently working on [supabase](https://github.com/supabase)
 
-- 🌱 I’m currently learning Typescript, Nextjs, and Supabase
+- 🌱 I’m currently learning Typescript, Nextjs, Golang, and Supabase
 
 - 💬 Ask me about anything [here](https://github.com/Isaiah-Hamilton/Isaiah-Hamilton/issues)
 
@@ -21,11 +21,11 @@ I'm a full stack developer based in Atlanta, Georgia. I have a strong passion fo
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
   <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typeScript">
-  <img src="https://img.shields.io/badge/-tailwindcss-05122A?style=flat&logo=tailwindcss">
-  <img src="https://img.shields.io/badge/-graphql-05122A?style=flat&logo=graphql">
+  <img src="https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase">
+  <img src="https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=tailwindcss">
+  <img src="https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go">
   <img src="https://img.shields.io/badge/-Nextjs-05122A?style=flat&logo=next.js">
   <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react">
-  <img src="https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react">
   <img src="https://img.shields.io/badge/-Deno-05122A?style=flat&logo=deno">
   <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
   <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">
