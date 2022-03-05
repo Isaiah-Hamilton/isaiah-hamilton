@@ -21,14 +21,28 @@ I'm a full stack developer based in Atlanta, Georgia. I have a strong passion fo
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
   <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typeScript">
-  <img src="https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase">
-  <img src="https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=tailwindcss">
-  <img src="https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go">
-  <img src="https://img.shields.io/badge/-Nextjs-05122A?style=flat&logo=next.js">
-  <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react">
-  <img src="https://img.shields.io/badge/-Deno-05122A?style=flat&logo=deno">
+  <a href="https://supabase.com">
+    <img src="https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase">
+  </a>
+  <a href="https://tailwindcss.com">
+    <img src="https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=tailwindcss">
+  </a>
+  <a href="https://go.dev/">
+    <img src="https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go">
+  </a>
+  <a href="https://nextjs.org/">
+    <img src="https://img.shields.io/badge/-Nextjs-05122A?style=flat&logo=next.js">
+  </a>
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react">
+  </a>
+  <a href="https://deno.land/">
+    <img src="https://img.shields.io/badge/-Deno-05122A?style=flat&logo=deno">
+  </a>
   <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
-  <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">
+  <a href="https://github.com">
+    <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">
+  </a>
 </p>
 
 <br />
