@@ -7,7 +7,7 @@
         I'm Isaiah, an intern <a href="https://github.com/supabase">@supabase</a>. I like Penguins and Apples, but I don't like Windows.
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com/?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=student+by+day,+hacker+by+night.">
+        <image src="https://readme-typing-svg.herokuapp.com/?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=student+by+day,+programmer+by+night.">
       <br>
       <b>
         ~ Isaiah Hamilton ~
