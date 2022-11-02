@@ -18,7 +18,7 @@
 
 <p align="center">
   <samp>
-    [<a href="https://twitter.com/rxxxyhn">twitter</a>]
+    [<a href="https://twitter.com/isaiah7hamilton">twitter</a>]
     [<a href="https://instagram.com/isaiah7hamilton">instagram</a>]
     [<a href="https://isaiah-hamilton.com">website</a>]
     [<a href="mailto:isaiah7hamilton@gmail.com">email</a>]
